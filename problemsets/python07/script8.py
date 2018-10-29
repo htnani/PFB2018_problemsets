@@ -34,5 +34,3 @@ fragments =  new_seq_sites.split('^')
 fragments_sorted = sorted(fragments, key = len)
 
 print(fragments_sorted)
-
-
